@@ -1,0 +1,3 @@
+/home/fsx/projects/student-management-system/build/CMakeFiles/student_management_system.dir
+/home/fsx/projects/student-management-system/build/CMakeFiles/edit_cache.dir
+/home/fsx/projects/student-management-system/build/CMakeFiles/rebuild_cache.dir

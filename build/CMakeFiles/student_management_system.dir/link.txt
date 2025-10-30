@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/student_management_system.dir/link.d CMakeFiles/student_management_system.dir/src/main.cpp.o CMakeFiles/student_management_system.dir/src/Student.cpp.o CMakeFiles/student_management_system.dir/src/Database.cpp.o -o student_management_system
